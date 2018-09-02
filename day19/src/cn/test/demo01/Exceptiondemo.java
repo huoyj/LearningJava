@@ -34,7 +34,7 @@ System.out.println("================================================");
 		for (int j = 0 ; j<arr.length;j++) {
 			if (arr[1] == 22) {
 				arr[1]=2;
-				arr.
+//				arr.
 			}
 			System.out.println(arr[j]);
 		}
